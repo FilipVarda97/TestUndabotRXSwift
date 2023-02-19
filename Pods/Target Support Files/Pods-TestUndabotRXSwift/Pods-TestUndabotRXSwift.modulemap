@@ -1,0 +1,6 @@
+framework module Pods_TestUndabotRXSwift {
+  umbrella header "Pods-TestUndabotRXSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
